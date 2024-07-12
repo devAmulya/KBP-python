@@ -1,1 +1,1 @@
-A Quiz gui platform designed similar to KBC.
+A Quiz GUI platform designed similar to KBC.
